@@ -1,4 +1,4 @@
-# 20 11 24 JS Intro Primary
+# 20 11 25 Conditionals Practice
 Completed exercises 1 - 4 in order, each exercises builds on the last. Add comments above each exercise solution (at minimum). When grading this assignment I will only run code that is not commented out. If you have partially functioning code comment it out and provide some context of what wasn't working so I can provide feedback.
 
 ## Set Up
